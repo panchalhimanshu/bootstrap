@@ -1,0 +1,11 @@
+.bg
+{
+  height: 600px;
+  width: 100%;
+  background: url(../img/team2.jpg);
+  background-size: 100% 100%;
+}
+.padding
+{
+  padding-top: 250px;
+}
